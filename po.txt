@@ -20,7 +20,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://lambe.info/wp-content/uploads/2025/01/icon.png" />
   <link rel="canonical" href="https://blog.poski.com/" />
-  <link rel="amphtml" href="https://udanet.pages.dev/" />
+  <link rel="amphtml" href="https://pub-1041c1c861bb477bbda595994563137b.r2.dev/blog-poski.html" />
   <!-- start preload -->
   <link rel="preload" href="https://lambe.info/wp-content/uploads/2025/02/slotgacor-20.png" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
