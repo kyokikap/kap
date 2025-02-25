@@ -17,6 +17,7 @@
   <meta name="geo.placename" content="Indonesia">
   <meta name="og:description" content="FIFAWIN78, situs slot Dana terpercaya dengan peluang Maxwin terbaik! Nikmati slot Dana gacor, transaksi cepat, dan mudah. Daftar sekarang untuk kemenangan besar!" />
   <meta name="og:image" content="https://i.imgur.com/h0c3Sfq.png" />
+<meta name="google-site-verification" content="w1CpdKPJAtx0wUzqe8YE8L0KkNt6zZPOu_suVlrdDJs" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://lambe.info/wp-content/uploads/2025/01/icon.png" />
   <link rel="canonical" href="https://articlebin.michaelmilette.com/" />
