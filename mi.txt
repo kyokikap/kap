@@ -20,7 +20,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://lambe.info/wp-content/uploads/2025/01/icon.png" />
   <link rel="canonical" href="https://articlebin.michaelmilette.com/" />
-  <link rel="amphtml" href="https://pub-1041c1c861bb477bbda595994563137b.r2.dev/michaelmilette.html" />
+  <link rel="amphtml" href="https://pub-1041c1c861bb477bbda595994563137b.r2.dev/articlebin-michaelmilette.html" />
   <!-- start preload -->
   <link rel="preload" href="https://i.imgur.com/h0c3Sfq.png" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
